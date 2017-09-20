@@ -23,5 +23,5 @@ function dec(n) {
 }
 
 function makeInt(a) {
-  return string.parseInt() === string
+  return parseInt(a)
 }
