@@ -1,3 +1,3 @@
 function add() {
-   return  var a + b
+   return a + b
 }
